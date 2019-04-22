@@ -1,0 +1,22 @@
+.App__container {
+  position: relative;
+}
+.App__hidden {
+  text-align: center;
+  color: gray;
+  background: white;
+  border: 1px dashed gray;
+}
+.App__trigger {
+  position: absolute;
+  top: 0px;
+  right: 16px;
+  width: 200px;
+  text-align: center;
+  color: gray;
+  background: white;
+  border: 1px dashed gray;
+  z-index: 99999;
+}
+
+/*# sourceMappingURL=app.css.map*/

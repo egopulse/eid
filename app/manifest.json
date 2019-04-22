@@ -1,0 +1,14 @@
+{
+    "id": "GdFAjA2Krwg",
+    "manifest_version": 6,
+    "name": "T+-",
+    "version_name": "11",
+    "version_number": 11,
+    "sizing_mode": "fill_container",
+    "fill_container_max_width": 800,
+    "initial_height": 80,
+    "allow_tiny_size": true,
+    "disable_app_level_comments": true,
+    "js_files": ["dist/app.js"],
+    "css_files": ["dist/app.css"]
+}
